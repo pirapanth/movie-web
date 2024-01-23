@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - 
-  Reference Video: https://github.com/pirapanth/movie-web/assets/113235357/5d5d8334-3c31-4317-a943-fe57124db4a3
+
+
+https://github.com/pirapanth/movie-web/assets/113235357/24ca2c9c-03e7-437f-ac5d-97022117b255
+
